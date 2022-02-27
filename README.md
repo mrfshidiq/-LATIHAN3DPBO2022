@@ -1,7 +1,7 @@
 # -LATIHAN3DPBO2022
 
 ## Janji
-Janji Saya Muhammad Rafi Shidiq 2004222 mengerjakan latihan2dpbo dalam mata kuliah DPBO untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
+Janji Saya Muhammad Rafi Shidiq 2004222 mengerjakan latihan3dpbo dalam mata kuliah DPBO untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
 
 ## Desain
 Kelas PC has a atau komposite kelas processor (dengan variabel name dan price), disk(type capacity dan price), dan ram(capacity dan price). sedangkan file main untuk mengeksekusi.
